@@ -1,0 +1,71 @@
+{
+    "dragones": [
+      {
+        "nombre": "Furia Nocturna",
+        "imagen": "imgs/dragones/furiaNocturna.webp",
+        "descripcion": "La Furia Nocturna es una de las especies de dragones más rápidas, inteligentes y raras de las conocidas, ya que Desdentado es el último miembro conocido de su especie. Es de tamaño mediano y tiene un cuerpo oscuro y elegante con escamas negras. También tiene patrones tenues más claros similares a los de una manta raya."
+      },
+      {
+        "nombre": "Nadder Mortífero",
+        "imagen": "imgs/dragones/nadderMortifero.webp",
+        "descripcion": "El Mortífero Nadder es como un ave, se para en sus patas traseras y sus alas están en sus brazos. Tiene ojos pequeños pero una aguda vista de halcón, una de las herramientas que usa para acechar a sus presas. En frente de sus ojos, sobre su nariz tiene un cuerno curvo y sobre su cabeza una 'corona' de cuernos rectos. Cubriendo su cola tiene espinas cargadas con veneno que puede lanzar a su objetivo. Cuando está calmado, sus púas se mantienen planas, y cuando se alarma se abren para ser lanzadas contra el enemigo. Este dragón también es capaz de escupir una llama de magnesio."
+      },
+      {
+        "nombre": "Furia Luminosa",
+        "imagen": "imgs/dragones/furiaLuminosa.webp",
+        "descripcion": "Las Furias Luminosas se parecen mucho a las Furias Nocturnas, pero son más elegantes , menos pesadas y mas simples con colores más claros y texturas brillantes que incluyen blanco, azul y rosa. Poseen una sola columna vertebral larga que recorre el centro de su espalda y ojos azul claro. También tienen dos pares de apéndices en forma de orejas en la parte superior de la cabeza y una nariz de color rosa. También tienen algo de azul muy claro en la zona del vientre / pecho y en los pies. También son algo más pequeños que las Furias Nocturnas."
+      },
+      {
+        "nombre": "Cremallerus Espantosus",
+        "imagen": "imgs/dragones/cremallerusEspantosus.webp",
+        "descripcion": "El Cremallerus es escurridizo como una serpiente, algunos son de color verde con la panza amarilla y manchas rojas en el resto del cuerpo. Posee dos colas y dos cabezas, una exhala gas y la otra lo enciende con chispas. Cada cabeza tiene una personalidad distinta a la otra, a una puede gustarle algo pero a la otra no. En cada una de ellas hay un cuerno nasal curvo como el del Mortífero Nadder, pero más delgado que el de este, y un par de cuernos rectos en la parte posterior."
+      },
+      {
+        "nombre": "Pesadilla Monstruosa",
+        "imagen": "imgs/dragones/pesadillaMonstruosa.webp",
+        "descripcion": "Los Pesadilla Monstruosa (Monstrous Nightmare en inglés) son Dragones de clase Fogonero muy irritables, agresivos y poderosos. Suelen variar su color de púrpura y azul a rojo escarlata y tienen un cuello y cola finos como las serpientes, camina en cuatro patas apoyándose sobre sus patas traseras y las garras en sus alas como patas delanteras. También tienen la costumbre de envolver su cuerpo en llamas."
+      },
+      {
+        "nombre": "Gronckle",
+        "imagen": "imgs/dragones/gronckle.webp",
+        "descripcion": "Los Gronckles son voluminosos, holgazanes, lentos y pueden llegar a dormirse en pleno vuelo debido a su gran peso. A pesar de que sus alas son pequeñas, son capaces de volar debido a que su aleteo es rápido y constante, similar al de los colibríes, las libélulas o las abejas. Poseen un pequeño y redondeado cuerno nasal y garras sin filo, y entre sus posibilidad de ataque, aparte de su fuego, tienen su fuerte cola en forma de mazo circular."
+      },
+      {
+        "nombre": "Terror Terrible",
+        "imagen": "imgs/dragones/terrorTerrible.webp",
+        "descripcion": "El Terror Terrible posee un cuerpo algo gordo, una cola fina terminada en una flecha y una cabeza pequeña y redondeada. Posee un cuerno en la nariz parecido a una espina, un par de grandes ojos amarillos, un par de cuernos cortos y curvos y unas espinas que le recorren desde el cuello hasta la cola. Son parecidos a un Pesadilla Monstruosa, sólo que mucho más pequeños y de apariencia menos amenazante. Hasta el momento se han visto ejemplares de color verde y rojo, naranja y rojo, celeste y amarillo, y púrpura e índigo."
+      }
+    ],
+    "personajes": [
+      {
+        "nombre": "Hipo",
+        "imagen": "imgs/humanos/hipo.webp",
+        "descripcion": "Hipo Horrendo Abadejo III es inteligente y está constantemente creando inventos para diversos usos a lo largo de la primera película, incluido un lanzador de bolas, una cola y silla de montar protésicas de dragón y un chaleco de montar. Hipo está dispuesto a matar un dragón para ganar algún reconocimiento en la aldea. A menudo no piensa bien las cosas y está más decidido a ganarse el reconocimiento de sus compañeros que a las órdenes de los demás, lo que a menudo causa problemas para el resto de la tribu y para él mismo. A pesar de esto, Hipo muestra una gran aptitud para ser líder y estratega: lidera su combate dragón a sus compañeros de clase en la batalla, usando sabiamente las fortalezas de sus amigos en la batalla contra la Muerte Roja. Hipo también tiene muy buenas habilidades de observación que son útiles durante su tiempo con Desdentado y durante el entrenamiento dragón. Su dragón es un Furia Nocturna llamado Desdentado."
+      },
+      {
+        "nombre": "Astrid",
+        "imagen": "imgs/humanos/astrid.webp",
+        "descripcion": "Astrid Hofferson es una persona inteligente, llamativa, desobediente e inmensamente dedicada a su causa que solía ser patriota de las 'costumbres vikingas' hasta que los dragones se convirtieron en una parte integral de Berk. Competitiva por naturaleza y muy dedicada, Astrid trabaja duro para lograr sus objetivos. En Cómo entrenar a tu dragón, era bastante solitaria y se esforzó por convertirse en una mejor luchadora. Después de vincularse estrechamente con Tormenta, el enfoque de Astrid cambió a convertirse en una jinete de dragones. Su personalidad decidida y fuerte la hace difícil de impresionar. Se ha descrito con problemas de ira, es muy agresiva y no tiene paciencia. A pesar de su original odio hacia los dragones, termina entrenando a una Nader Mortífero  llamada Tormenta."
+      },
+      {
+        "nombre": "Mocoso",
+        "imagen": "imgs/humanos/mocoso.webp",
+        "descripcion": "Patán Mocoso es muy arrogante, raya lo narcisista, y propenso a los delirios de grandeza de la perfección, la popularidad y el atractivo extremo, y en consecuencia su egolatría le lleva a tener un gran problema con la autoridad o ser capaz de admitir la responsabilidad por sus errores o malas acciones, por la que siempre tiene algún terrible justificación. Él parece considerarse a sí mismo el más inteligente y el más fuerte de los adolescentes y quiere ser elogiado y admirado en consecuencia, a pesar de los demás por lo general por considerarlo un idiota inmaduro molesto con un ego colosal. Este termina entrenando un Pesadilla Monstruosa llamado Garfios."
+      },
+      {
+        "nombre": "Patapez",
+        "imagen": "imgs/humanos/patapez.webp",
+        "descripcion": "Patapez Ingerman es el opuesto a su contraparte del libro. Él es muy grande y gordito y con frecuencia lanza chorros de información sobre los dragones siempre que puede, por lo general, como si estuviera describiendo las estadísticas de una criatura en un juego RPG. Esto molesta con frecuencia a los otros adolescentes durante el entrenamiento contra dragones. Más tarde, Patapez aprende a montar dragones de Hipo y termina volando y adquiriendo un Gronckle usado en el entrenamiento, que después nombra Barrilete. Sus análisis a los dragones se convierten en un valor incalculable para el resto de los Vikingos cuando identifica las características y debilidades del Muerte Roja."
+      },
+      {
+        "nombre": "Chusco",
+        "imagen": "imgs/humanos/chusco.webp",
+        "descripcion": "Chusco Thorston es muy hiperactivo, siempre esta buscando causar desastres junto con su hermana Brusca Thorston y esta es una de las razones por las que el resto del grupo lo toma como inútil o problemático. Pero a pesar de esto, sus ideas locas y despreocupadas casi siempre solucionan sus problemas. Eso demuestra que Chusco es inteligente, aunque no lo demuestre. Es muy alocado y sus ideas lo son aún más. Este termina entrenando un Cremallerus Espantosus llamdo Eructo."
+      },
+      {
+        "nombre": "Brusca",
+        "imagen": "imgs/humanos/brusca.webp",
+        "descripcion": "Brusca Thorston es muy compasiva y desinteresada, pero dispuesta a sacrificarse si alguien lo necesita, sobre todo si es su hermano. Ella es poco femenina, sobre todo porque es una vikinga, pero tiende a ser poco más limpia en su apariencia y le resulta ofensivo cuando Chusco habla negativamente sobre su físico. A pesar de haber domesticado Vómito, ella parecía tener un ligero temor hacia los dragones salvajes que podrían hacerle daño a ella y a menudo sentía pánico en situaciones en las que se encontraba un dragón salvaje, sin embargo esto cambió al domesticar a Scauldy."
+      }
+    ]
+  }  
