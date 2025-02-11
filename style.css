@@ -67,6 +67,11 @@ h3{
     display: none;
 }
 
+.dragon:nth-child(odd) .content,
+.personaje:nth-child(odd) .content {
+    flex-direction: row-reverse; /* Invierte la posición para los elementos pares */
+}
+
 .content {
     display: flex;
     align-items: center;
