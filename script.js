@@ -1,13 +1,15 @@
 const dragonButton = document.getElementById("dragons");
 const dragonContainer = document.getElementById("dragonContainer");
 
-dragonButton.addEventListener("click", function (){
+function showDragons(){
     if(dragonContainer.style.display === "none" || dragonContainer.style.display === ""){
         dragonContainer.style.display = "block";
     } else{
         dragonContainer.style.display = "none";
     }
-});
+}
+
+dragonButton.addEventListener("click", showDragons);
 
 const humanButton = document.getElementById("humans");
 const humanContainer = document.getElementById("humanContainer");
