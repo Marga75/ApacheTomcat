@@ -20,4 +20,4 @@ function showHumans(){
     }
 }
 
-humanButton.addEventListener("click", showHumans());
+humanButton.addEventListener("click", showHumans);
