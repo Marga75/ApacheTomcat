@@ -8,3 +8,16 @@ dragonButton.addEventListener("click", function (){
         dragonContainer.style.display = "none";
     }
 });
+
+const humanButton = document.getElementById("humans");
+const humanContainer = document.getElementById("humanContainer");
+
+function showHumans(){
+    if(humanContainer.style.display === "none" || humanContainer.style.display === ""){
+        humanContainer.style.display = "block";
+    } else {
+        humanContainer.style.display = "none";
+    }
+}
+
+humanButton.addEventListener("click", showHumans());

@@ -63,6 +63,10 @@ h3{
     display: none;
 }
 
+#humanContainer{
+    display: none;
+}
+
 .content {
     display: flex;
     align-items: center;
